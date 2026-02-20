@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+networkx>=3.2
+requests>=2.31
+openai>=1.40
+python-dotenv>=1.0
+aif360>=0.6
